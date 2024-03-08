@@ -14,6 +14,10 @@ Shows the branches in local git.
 
 Create a new branch
 
+# git checkout -b (branch-name)
+
+Create the branch and change to new branch
+
 # git checkout <another-branch>
 
 Changes to another branch.
